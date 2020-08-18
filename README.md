@@ -1,4 +1,17 @@
-### Hi there 👋
+# 👤 Basics
+- 😄 __Pronouns:__ ♂️ He/Him
+- 🌎 __Country:__ 🇧🇷 Brazil
+
+## ⚙️ Tecnology
+- 💾 __O.S.:__ 🐧 Linux ( GalliumOS, PopOS )
+- 📁 __Programming Languages:__ (Python, Javascript, Dart, Java, Typescript, Lua, Shell Script)
+
+## ⚡ Fun facts:
+- 🩸 __Blood type:__ O+
+- 🎲 __Hobby:__ TTRPG, cardgames, boardgames, listen podcasts
+- 🥗 __Political Position:__ Eco-socialism
+- 🎂 __Sexuality:__ Demi
+
 
 <!--
 **Albrigs/Albrigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +24,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
