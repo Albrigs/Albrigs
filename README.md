@@ -7,7 +7,6 @@
 - 📁 __Programming Languages:__ (Python, Javascript, Dart, Java, Typescript, Lua, Shell Script)
 
 ## ⚡ Fun facts:
-- 🩸 __Blood type:__ O+
 - 🎲 __Hobby:__ TTRPG, cardgames, boardgames, listen podcasts
 - 🥗 __Political Position:__ Eco-socialism
 - 🎂 __Sexuality:__ Demi
