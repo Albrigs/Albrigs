@@ -3,7 +3,7 @@
 - 🌎 __Country:__ 🇧🇷 Brazil
 
 ## ⚙️ Tecnology
-- 💾 __O.S.:__ 🐧 Linux ( GalliumOS, PopOS )
+- 💾 __O.S.:__ 🐧 Linux ( GalliumOS, Ubuntu )
 - 📁 __Programming Languages:__ (Python, Javascript, Dart, Java, Typescript, Lua, Shell Script)
 
 ## ⚡ Fun facts:
