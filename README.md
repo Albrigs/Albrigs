@@ -4,7 +4,7 @@
 
 ## ⚙️ Tecnology
 - 💾 __O.S.:__ 🐧 Linux ( GalliumOS, Ubuntu )
-- 📁 __Programming Languages:__ (Python, Javascript, Dart, Java, Typescript, Lua, Shell Script)
+- 📁 __Programming Languages:__ (Python, Shell Script, Javascript, Dart, Java, Typescript)
 
 ## ⚡ Fun facts:
 - 🎲 __Hobby:__ TTRPG, cardgames, boardgames, listen podcasts
