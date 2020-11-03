@@ -2,14 +2,15 @@
 - 😄 __Pronouns:__ ♂️ He/Him
 - 🌎 __Country:__ 🇧🇷 Brazil
 
+## Currently
+- ♻️ Rebuilding my old projects.
+
 ## ⚙️ Tecnology
 - 💾 __O.S.:__ 🐧 Linux ( GalliumOS, Ubuntu )
-- 📁 __Programming Languages:__ (Python, Shell Script, Javascript, Dart, Java, Typescript)
+- 📁 __Programming Languages:__ (Python, Shell Script, Javascript, Dart, Java)
 
 ## ⚡ Fun facts:
 - 🎲 __Hobby:__ TTRPG, cardgames, boardgames, listen podcasts
-- 🥗 __Political Position:__ Eco-socialism
-- 🎂 __Sexuality:__ Demi
 
 
 <!--
@@ -17,7 +18,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- git push -u origin main I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
