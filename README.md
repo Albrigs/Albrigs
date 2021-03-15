@@ -2,12 +2,11 @@
 - 😄 __Pronouns:__ ♂️ He/Him
 - 🌎 __Country:__ 🇧🇷 Brazil
 
-## Currently
-- ♻️ Rebuilding my old projects.
 
 ## ⚙️ Tecnology
 - 💾 __O.S.:__ 🐧 Linux ( GalliumOS, Ubuntu )
-- 📁 __Programming Languages:__ (Python, Shell Script, Javascript, Dart, Java)
+- 📁 __Programming Languages:__ (Python, Shell Script, Javascript, Java)
+
 
 ## ⚡ Fun facts:
 - 🎲 __Hobby:__ TTRPG, cardgames, boardgames, listen podcasts
